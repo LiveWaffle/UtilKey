@@ -1640,12 +1640,6 @@
 		(uuid "0bb4afdc-9492-4cc2-a6ff-8ecefed7d673")
 	)
 	(junction
-		(at 35.56 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0dd38230-d4e1-485f-9c9e-812e88d54cf7")
-	)
-	(junction
 		(at 152.4 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3131,16 +3125,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 76.2) (xy 35.56 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c219a961-35b7-45cc-a563-7a5fc7139456")
-	)
-	(wire
-		(pts
 			(xy 50.8 25.4) (xy 50.8 38.1)
 		)
 		(stroke
@@ -4446,7 +4430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 93.98 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8577,7 +8561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9712,7 +9696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 81.28 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11952,7 +11936,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 43.18 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -12297,7 +12281,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 106.68 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14780,7 +14764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 30.48 78.74 0)
 			(hide yes)
 			(show_name no)
