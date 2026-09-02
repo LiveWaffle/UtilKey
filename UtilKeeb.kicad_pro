@@ -523,7 +523,7 @@
   "pcbnew": {
     "last_paths": {
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "",
       "specctra_dsn": "",
       "step": "",
@@ -661,7 +661,7 @@
         "uuid": "62b32dd5-8e2f-4f12-8b30-c394b3879315"
       }
     ],
-    "used_designators": "SW1-68,TBKSP1,P1,L1,R1,APSTRPHE1,F1,ENTER1,U1,X1,M1,S1-2,LALT1,K1,E1,LCTRL1,MENU1,COLON1,G1,RSHIFT1,[1,D1-68,PERIOD1,C1,N1,O1,RCTRL1,Z1,A1-2,SPACE1,COMMA1,I1,H1,SLASH1,ESC1,RALT1,J1,TAB1,T10,BCKSLSH1,CAPSLK1,Q1,T\\-1,V1,Y1,W1,B1,]1,T=1,SUPER1,LSHIFT1,RFN1",
+    "used_designators": "BCKSLSH1,SW1-68,P1,TBKSP1,L1,R1,Z1,ENTER1,APSTRPHE1,S1-3,F1,LSHIFT1,U1,X1,M1,COMMA1,LALT1,K1,LCTRL1,T\\-1,E1,MENU1,[1,T=1,COLON1,G1,RSHIFT1,D1-68,PERIOD1,C1,N1,O1,ESC1,RCTRL1,SUPER1,A1-2,RALT1,TAB1,SPACE1,B1,RFN1,I1,H1,SLASH1,J1,T10,CAPSLK1,Q1,V1,Y1,W1,]1",
     "variants": []
   },
   "sheets": [
